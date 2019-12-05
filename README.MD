@@ -12,3 +12,5 @@
 
 > **해당코드는 데이터불러오기->보여주기->히트맵출력->가장 연관성이 높은 2요소를 이용해 음식점맞추기(알고리즘4개)->인식률 그래프출력 순으로 되어있습니다**
 
+> **ai_prediction_util 파일은 https://www.kaggle.com/yungbyun/female-male-classification 의 코드를 참고하여 만들었습니다.
+
